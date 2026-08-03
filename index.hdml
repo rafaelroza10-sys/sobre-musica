@@ -144,9 +144,13 @@
    
     <div class="galeria">
       <div class="card">
-        <img src="https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?w=600&auto=format&fit=crop&quot; alt="Scania V8 arqueada na cor vermelha">
+        <img src="Foto de <a href=">Annie Spratt</a> na <a href="https://unsplash.com/pt-br/fotografias/guitarra-marrom-4Hpljf9Y1ko?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>; alt=
         <div class="card-content">
           <h3>Milionario e Jose rico</h3>
+
+
+    
+  
           <p>Os Embaixadores do sertanejo do Brasil</p>
         </div>
       </div>
@@ -173,20 +177,6 @@
 
 </body>
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
