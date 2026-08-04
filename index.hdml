@@ -82,7 +82,7 @@
     .card {
       background: #1a1a1a;
       border-radius: 8px;
-      padding: 0;
+      padding: 0;https://images.unsplash.com/photo-1541689592655-f5f52825a3b8?q=80&w=650&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
       border: 1px solid #333;
       overflow: hidden;
       transition: 0.3s;
@@ -144,28 +144,24 @@
    
     <div class="galeria">
       <div class="card">
-        <img src="Foto de <a href=">Annie Spratt</a> na <a href="https://unsplash.com/pt-br/fotografias/guitarra-marrom-4Hpljf9Y1ko?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>; alt=
+        <img src=https://images.unsplash.com/photo-1541689592655-f5f52825a3b8?q=80&w=650&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D alt= "violão">
         <div class="card-content">
           <h3>Milionario e Jose rico</h3>
-
-
-    
-  
           <p>Os Embaixadores do sertanejo do Brasil</p>
         </div>
       </div>
       <div class="card">
-        <img src="https://images.unsplash.com/photo-1591768793355-74d04bb6608f?w=600&auto=format&fit=crop&quot; alt="Volvo FH branco arqueado">
+        <img src=https://images.unsplash.com/photo-1511379938547-c1f69419868d?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D; alt="">
         <div class="card-content">
           <h3>Leonardo</h3>
           <p>Imperador do sertanejo no Brasil</p>
         </div>
       </div>
       <div class="card">
-        <img src="https://images.unsplash.com/photo-1557223562-6c77ef16210f?w=600&auto=format&fit=crop&quot; alt="Encontro de cantore sertanejo">
+        <img src=https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D; alt="Encontro de cantore sertanejo">
         <div class="card-content">
           <h3>Eventos</h3>
-          <p>Cobertura dos maiores encontros</p>
+          <p>Cobertura dos maiores encontros</p>"https://images.unsplash.com/photo-1591768793355-74d04bb6608f?w=600&auto=format&fit=crop&quot
         </div>
       </div>
     </div>
@@ -175,7 +171,7 @@
     <p>&copy; PATROCÍNIO MCGR</p>
   </footer>
 
-</body>
+<body>
 </html>
 
 
